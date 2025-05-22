@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 200">
+    <!-- Background -->
+    <rect width="600" height="200" fill="white"/>
+    
+    <!-- Score Bar -->
+    <!-- High Priority Section -->
+    <rect x="50" y="50" width="167" height="60" fill="#ff6b6b" stroke="#333" stroke-width="2"/>
+    <!-- Medium Priority Section -->
+    <rect x="217" y="50" width="166" height="60" fill="#ffd93d" stroke="#333" stroke-width="2"/>
+    <!-- Low Priority Section -->
+    <rect x="383" y="50" width="167" height="60" fill="#6bff6b" stroke="#333" stroke-width="2"/>
+    
+    <!-- Score Labels -->
+    <text x="50" y="130" font-family="Arial" font-size="14">0</text>
+    <text x="217" y="130" font-family="Arial" font-size="14">2</text>
+    <text x="383" y="130" font-family="Arial" font-size="14">4</text>
+    <text x="550" y="130" font-family="Arial" font-size="14">5</text>
+    
+    <!-- Category Labels -->
+    <text x="133" y="85" font-family="Arial" font-size="16" font-weight="bold" fill="#000" text-anchor="middle">High Priority</text>
+    <text x="300" y="85" font-family="Arial" font-size="16" font-weight="bold" fill="#000" text-anchor="middle">Medium Priority</text>
+    <text x="466" y="85" font-family="Arial" font-size="16" font-weight="bold" fill="#000" text-anchor="middle">Low Priority</text>
+    
+    <!-- Score Range Labels -->
+    <text x="133" y="40" font-family="Arial" font-size="14" text-anchor="middle">Score: 0-1</text>
+    <text x="300" y="40" font-family="Arial" font-size="14" text-anchor="middle">Score: 2-3</text>
+    <text x="466" y="40" font-family="Arial" font-size="14" text-anchor="middle">Score: 4-5</text>
+    
+    <!-- Title -->
+    <text x="300" y="180" font-family="Arial" font-size="18" font-weight="bold" text-anchor="middle">Priority Categories Based on Score Range</text>
+</svg>

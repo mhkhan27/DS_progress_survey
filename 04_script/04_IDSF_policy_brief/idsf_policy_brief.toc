@@ -1,0 +1,38 @@
+\contentsline {chapter}{Introduction}{2}{chapter*.2}%
+\contentsline {section}{Research questions}{3}{section*.3}%
+\contentsline {section}{Limitation}{3}{section*.4}%
+\contentsline {chapter}{Methodology}{4}{chapter*.5}%
+\contentsline {section}{Overview}{4}{section*.6}%
+\contentsline {section}{Data Processing Steps}{4}{section*.7}%
+\contentsline {section}{Case Study: HLP and Documentation (solutions pathway 4)}{4}{section*.8}%
+\contentsline {subsection}{Step 1: Indentifying the list of indicators}{4}{section*.9}%
+\contentsline {subsection}{Step 2: Collect household-level data for all indicators}{5}{section*.10}%
+\contentsline {subsection}{Step 3: Create composite indicator at sub-criteria level}{6}{section*.11}%
+\contentsline {subsection}{Step 4: Applying recoding rule on composite indicator}{7}{section*.12}%
+\contentsline {subsection}{Step 5: Applying same calculations for all sub criteria for each pathway}{7}{section*.13}%
+\contentsline {subsection}{Step 6: Calculating total score}{8}{section*.14}%
+\contentsline {subsection}{Step 7: Creating City-Level Matrix for HLP and Documentation Pathway}{8}{section*.15}%
+\contentsline {subsection}{Step 8: Normalizating the total score}{8}{section*.16}%
+\contentsline {subsection}{Step 9: Defining the priority}{9}{section*.17}%
+\contentsline {section}{Conclusion}{9}{section*.18}%
+\contentsline {chapter}{Annex}{10}{chapter*.19}%
+\contentsline {section}{List of available indicators in DSP}{10}{section*.20}%
+\contentsline {subsection}{Solutions Pathway 1: Government Leadership}{10}{section*.21}%
+\contentsline {paragraph}{Trust \& Governance Indicators}{10}{section*.22}%
+\contentsline {paragraph}{Security \& Justice}{10}{section*.23}%
+\contentsline {paragraph}{Community Resilience}{10}{section*.24}%
+\contentsline {subsection}{Solutions Pathway 2: Access to Basic Services}{11}{section*.25}%
+\contentsline {paragraph}{Education Access}{11}{section*.26}%
+\contentsline {paragraph}{Health Access}{11}{section*.27}%
+\contentsline {paragraph}{WASH Services}{11}{section*.28}%
+\contentsline {paragraph}{Basic Infrastructure}{11}{section*.29}%
+\contentsline {subsection}{Solutions Pathway 3: Employment and Livelihood Opportunities}{11}{section*.30}%
+\contentsline {paragraph}{Income \& Employment}{11}{section*.31}%
+\contentsline {paragraph}{Financial Inclusion}{12}{section*.32}%
+\contentsline {paragraph}{Food Security \& Markets}{12}{section*.33}%
+\contentsline {paragraph}{Coping Mechanisms}{12}{section*.34}%
+\contentsline {subsection}{Solutions Pathway 4: Legal Documentation, Housing, Land, and Property}{12}{section*.35}%
+\contentsline {paragraph}{Housing \& Land Rights}{12}{section*.36}%
+\contentsline {paragraph}{Legal Documentation}{13}{section*.37}%
+\contentsline {subsection}{Solutions Pathway 5: Addressing Climate Change and Building Resilience}{13}{section*.38}%
+\contentsline {paragraph}{Climate Adaptation}{13}{section*.39}%
